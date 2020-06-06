@@ -5,7 +5,7 @@ Created on Tue Sep 10 01:24:47 2019
 @author: kit
 """
 
-# -*- coding: utf-8 -*
+# -*- coding: utf-8 -*#
 
 import cv2
 
