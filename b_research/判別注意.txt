@@ -1,3 +1,5 @@
 判別注意
 pip uninstall numpy==1.18.5
 pip instal numpy==1.18.5
+
+pip install --upgrade tensorflow==2
