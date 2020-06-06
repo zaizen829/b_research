@@ -1,7 +1,7 @@
 """
-オプティカルフロー検出のサンプルプログラム
-大元: opencv3.2.0-samples-python
-ページ番号は参考となる詳解OpenCV3のページ番号
+#オプティカルフロー検出のサンプルプログラム
+#大元: opencv3.2.0-samples-python
+#ページ番号は参考となる詳解OpenCV3のページ番号
 """
 import numpy as np
 import cv2
