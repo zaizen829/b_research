@@ -227,7 +227,7 @@ while True:
             # shift=0,                      # 無くても良い
         )
 
-    # 結果画像の表示
+    # 結果画像の表示#
     cv2.imshow("frame", result_img)
     k = cv2.waitKey(30) & 0xff
     if k == 27:
